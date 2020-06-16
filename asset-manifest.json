@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rishab-j/learning-React/static/css/main.14c9000e.chunk.css",
+    "main.js": "/Rishab-j/learning-React/static/js/main.e3d1c702.chunk.js",
+    "main.js.map": "/Rishab-j/learning-React/static/js/main.e3d1c702.chunk.js.map",
+    "runtime-main.js": "/Rishab-j/learning-React/static/js/runtime-main.4cbb5002.js",
+    "runtime-main.js.map": "/Rishab-j/learning-React/static/js/runtime-main.4cbb5002.js.map",
+    "static/js/2.b6f2604e.chunk.js": "/Rishab-j/learning-React/static/js/2.b6f2604e.chunk.js",
+    "static/js/2.b6f2604e.chunk.js.map": "/Rishab-j/learning-React/static/js/2.b6f2604e.chunk.js.map",
+    "index.html": "/Rishab-j/learning-React/index.html",
+    "precache-manifest.bfd6d5ee9073452f5bd22993ec8697d3.js": "/Rishab-j/learning-React/precache-manifest.bfd6d5ee9073452f5bd22993ec8697d3.js",
+    "service-worker.js": "/Rishab-j/learning-React/service-worker.js",
+    "static/css/main.14c9000e.chunk.css.map": "/Rishab-j/learning-React/static/css/main.14c9000e.chunk.css.map",
+    "static/js/2.b6f2604e.chunk.js.LICENSE.txt": "/Rishab-j/learning-React/static/js/2.b6f2604e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cbb5002.js",
+    "static/js/2.b6f2604e.chunk.js",
+    "static/css/main.14c9000e.chunk.css",
+    "static/js/main.e3d1c702.chunk.js"
+  ]
+}
